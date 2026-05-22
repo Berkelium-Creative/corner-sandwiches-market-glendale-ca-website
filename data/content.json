@@ -1,47 +1,136 @@
 {
-  "businessName": "Sample Business",
-  "tagline": "Quality Service You Can Trust",
+  "businessName": "Corner Sandwiches",
+  "tagline": "Sandwiches on the corner of Lexington in Glendale.",
   "hero": {
-    "heading": "Welcome to Our Business",
-    "subheading": "Professional service in your area.",
-    "ctaText": "Contact Us",
-    "ctaLink": "#contact"
+    "eyebrow": "GLENDALE · W LEXINGTON DR · DELI · SANDWICHES · 177 REVIEWS",
+    "heading": "Corner. Bread. Done.",
+    "subheading": "A sandwich shop on West Lexington Drive in downtown Glendale. House-baked bread, deli meats sliced to order, real condiments, and the kind of stacking that takes both hands. Eat in or grab it and go.",
+    "ctaText": "Call ahead",
+    "ctaLink": "tel:8186377720",
+    "image": "https://images.unsplash.com/photo-1539252554453-80ab65ce3586?w=1800&q=80&auto=format&fit=crop"
   },
   "about": {
-    "heading": "About Us",
+    "label": "the shop",
+    "heading": "Bread first. Always.",
     "paragraphs": [
-      "We are a local business dedicated to providing quality service.",
-      "Our team has years of experience and we take pride in our work."
+      "Corner Sandwiches has been on the Lexington corner in downtown Glendale long enough to know what regulars want and short enough to still treat every sandwich like it matters.",
+      "We bake our bread daily, slice our meats on a clean blade per order, and stack honest. No microwave, no shortcut, no soggy. Pickles are crisp, mustard is the real kind, and the slaw on the side is dressed when you order.",
+      "Open six days a week. Closed Sunday. Dine in, takeout, or call ahead for a tray. The 177 reviews come from regulars who eat here on their lunch break."
     ]
   },
   "services": [
-    { "title": "Service One", "description": "Professional service with attention to detail.", "icon": "star" },
-    { "title": "Service Two", "description": "Quality work at competitive prices.", "icon": "award" },
-    { "title": "Service Three", "description": "Fast, reliable, and thorough.", "icon": "check" }
+    {
+      "title": "The Italian",
+      "description": "Mortadella, capicola, salami, provolone, lettuce, tomato, onion, oil, vinegar, oregano on a fresh roll. The flagship.",
+      "price": "$13"
+    },
+    {
+      "title": "Turkey Avocado",
+      "description": "Roasted turkey, avocado, swiss, lettuce, tomato, sprouts, garlic aioli on wheat. Lighter but filling.",
+      "price": "$12"
+    },
+    {
+      "title": "Roast Beef Special",
+      "description": "Slow-roasted beef, horseradish cream, swiss, arugula, caramelized onion on rye. The cold-cuts crowd's pick.",
+      "price": "$14"
+    },
+    {
+      "title": "BLT Classic",
+      "description": "Thick-cut bacon, butter lettuce, ripe tomato, mayo, on toasted sourdough. The way it should be.",
+      "price": "$11"
+    },
+    {
+      "title": "Veggie Stack",
+      "description": "Hummus, avocado, cucumber, sprouts, tomato, red onion, cheddar, mustard on multigrain. Hearty vegetarian.",
+      "price": "$10"
+    },
+    {
+      "title": "Box Lunch · 10 pack",
+      "description": "Ten sandwiches of your choice, chips, pickle, cookie. Call twenty-four hours ahead for catering orders.",
+      "price": "$120"
+    }
+  ],
+  "reviews": [
+    {
+      "name": "Rosa T.",
+      "rating": 5,
+      "context": "Daily lunch regular",
+      "text": "Corner Sandwiches is the only deli I trust in downtown Glendale. The bread is baked here, the meats are sliced when you order, and the Italian is the size of two normal sandwiches. I'm in five days a week for the same exact one."
+    },
+    {
+      "name": "Marcus G.",
+      "rating": 4,
+      "context": "First-time customer",
+      "text": "Walked in cold on a Wednesday and was eating one of the best roast beef sandwiches I've had in LA twelve minutes later. The horseradish cream was real, the rye was crusty, and the pickle was perfect."
+    },
+    {
+      "name": "Jenny R.",
+      "rating": 5,
+      "context": "Office catering customer",
+      "text": "Ordered ten box lunches for our office last Friday — twenty-four hours notice, showed up perfectly, every box was labeled. The whole office talked about the BLT for three days."
+    }
   ],
   "contact": {
-    "address": "123 Main St, City, ST 12345",
-    "phone": "(555) 123-4567",
-    "email": "info@sample.com",
+    "phone": "(818) 637-7720",
+    "email": "hello@cornersandwiches.com",
+    "address": "471 W Lexington Dr, Glendale, CA 91203",
+    "mapEmbedQuery": "Corner Sandwiches, 471 W Lexington Dr, Glendale, CA 91203",
     "hours": {
-      "Monday": "9:00 AM - 5:00 PM",
-      "Tuesday": "9:00 AM - 5:00 PM",
-      "Wednesday": "9:00 AM - 5:00 PM",
-      "Thursday": "9:00 AM - 5:00 PM",
-      "Friday": "9:00 AM - 5:00 PM",
-      "Saturday": "10:00 AM - 3:00 PM",
+      "Monday": "8:00 AM – 4:00 PM",
+      "Tuesday": "8:00 AM – 4:00 PM",
+      "Wednesday": "8:00 AM – 4:00 PM",
+      "Thursday": "8:00 AM – 4:00 PM",
+      "Friday": "8:00 AM – 5:00 PM",
+      "Saturday": "9:00 AM – 3:00 PM",
       "Sunday": "Closed"
-    },
-    "mapEmbedQuery": "123+Main+St+City+ST"
+    }
   },
+  "social": {},
   "seo": {
-    "title": "Sample Business | City, ST",
-    "description": "Sample Business in City, ST. Professional services you can trust.",
-    "keywords": ["sample business", "city ST", "professional services"]
+    "title": "Corner Sandwiches — Glendale deli on W Lexington Dr",
+    "description": "A sandwich shop on West Lexington Drive, downtown Glendale. House-baked bread, sliced deli meats, fresh condiments, box-lunch catering. Open six days.",
+    "keywords": [
+      "Glendale sandwich shop",
+      "Lexington Dr deli",
+      "Corner Sandwiches",
+      "Glendale deli",
+      "Glendale box lunch catering"
+    ]
   },
   "theme": {
-    "primaryColor": "#0a0a0a",
-    "accentColor": "#c8a97e",
-    "fontFamily": "modern"
+    "primaryColor": "#DC2626",
+    "accentColor": "#EAB308",
+    "fontFamily": "alfaslabone-dmsans-permanentmarker"
+  },
+  "designSystem": {
+    "searchQuery": "deli sandwich shop classic american mustard yellow cardinal red diner",
+    "styleName": "Americana Diner Sign-Painter (tomato + mustard + pickle)",
+    "pattern": "Hero split + Menu cards + Reviews tilted + CTA",
+    "palette": {
+      "primary": "#DC2626",
+      "secondary": "#7F1D1D",
+      "cta": "#DC2626",
+      "accent": "#EAB308",
+      "background": "#FAFAF5",
+      "text": "#0C0A09",
+      "muted": "#57534E",
+      "border": "#0C0A09",
+      "surface": "#F5F0E0"
+    },
+    "typography": {
+      "heading": "Alfa Slab One",
+      "body": "DM Sans",
+      "label": "Permanent Marker",
+      "mood": "Alfa Slab One chunky diner slab serif, DM Sans clean body, Permanent Marker hand-scrawl accent — Americana sandwich shop sign-painter feel"
+    },
+    "moves": [
+      "Alfa Slab One as chunky diner display — first AS1 in build, tomato red massive",
+      "Permanent Marker hand-scrawl for accent text — chalkboard menu feel",
+      "Tomato + mustard + pickle green palette — classic NYC deli/bodega",
+      "Stripe diagonal bar at top + bottom — diner sign awning",
+      "Tilted hero photo + tilted CTA + tilted reviews — print poster feel",
+      "Hard offset shadows (boxShadow: '12px 12px 0 TOMATO') on photos + map — Risograph print",
+      "Numbered menu cards with hard offset shadow alternating between tomato + pickle"
+    ]
   }
 }
